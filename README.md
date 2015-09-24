@@ -16,17 +16,17 @@ Demo is available http://embed.plnkr.co/V6ZJS7GdsvRIrpznGbh9/preview
     "textAngular": "~1.4.6"
     
     
- ### Usage
-    1) install bower components
-        `bower install textAngular --save`
-        `bower install angular-spectrum-colorpicker --save`
-        `bower install bootstrap --save`
-        `bower install font-awesome --save`
-        `bower install jquery --save`
-        `bower install spectrum --save`
-        `bower install textAngular --save`
+ ## Usage
+  ###   1) install bower components
+        "bower install textAngular --save"
+        "bower install angular-spectrum-colorpicker --save"
+        "bower install bootstrap --save"
+        "bower install font-awesome --save"
+        "bower install jquery --save"
+        "bower install spectrum --save"
+        "bower install textAngular --save"
         
-    2) code example
+    ### 2) code example
    
    `<!DOCTYPE html>`
   ` <html ng-app="myApp">`
