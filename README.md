@@ -18,9 +18,8 @@ Demo is available http://embed.plnkr.co/V6ZJS7GdsvRIrpznGbh9/preview
  
     **Usage:**
     
-    Run `bower install textAngular` from the command line.
-    Include script tags similar to the following:
-    ```html
+   
+    
     <!DOCTYPE html>
     <html ng-app="myApp">
     
@@ -56,7 +55,7 @@ Demo is available http://embed.plnkr.co/V6ZJS7GdsvRIrpznGbh9/preview
     
     </html>
 
-    ```
+   
     
     
  
