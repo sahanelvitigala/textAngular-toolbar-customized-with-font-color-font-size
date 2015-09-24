@@ -16,9 +16,9 @@ Demo is available http://embed.plnkr.co/V6ZJS7GdsvRIrpznGbh9/preview
     "textAngular": "~1.4.6"
     
  
-    **Usage:**
-    
    
+    
+### Usage 
     
     <!DOCTYPE html>
     <html ng-app="myApp">
