@@ -1,0 +1,32 @@
+{
+  "name": "textAngular-toolbar",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sahanrox/textAngular-toolbar-customized-with-font-color-font-size-",
+  "authors": [
+    "sahanrox"
+  ],
+  "description": "A radically powerful Text-Editor/Wysiwyg editor for Angular.js- and customized",
+  "main": "\"./js/custom/script.js\"",
+  "keywords": [
+    "\"editor\"",
+    "\"angular\"",
+    "\"wysiwyg\""
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-spectrum-colorpicker": "~1.4.2",
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "jquery": "~2.1.4",
+    "spectrum": "~1.7.1",
+    "textAngular": "~1.4.6"
+  }
+}
