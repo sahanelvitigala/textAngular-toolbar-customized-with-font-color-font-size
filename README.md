@@ -3,7 +3,7 @@ textAngular-toolbar customized with font,color,font-size
 
 main sourcecode from https://github.com/fraywing/textAngular
 
-Demo is available http://embed.plnkr.co/V6ZJS7GdsvRIrpznGbh9/preview
+Modified Demo is available http://embed.plnkr.co/V6ZJS7GdsvRIrpznGbh9/preview
 
 
 ## Requirements
